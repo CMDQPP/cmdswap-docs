@@ -1,14 +1,13 @@
 {
   "Token swaps on Cmdswap are a simple way to trade on the Arbitrum network for another via automated liquidity pools.": {
-    "message": "Token swaps on Cmdswap are a simple way to trade on the Arbitrum network for another via automated liquidity pools.",
-    "description": "feature exchange description"
+    "message": "Cmdswap上のトークンスワップは、自動流動性プールを介してArbitrumネットワーク上で別のトークンスワップと交換する簡単な方法です。"
   },
   "Yield Farms allow users to earn CMDS while supporting CmdSwap by staking LP Tokens.": {
-    "message": "Yield Farms allow users to earn CMDS while supporting CmdSwap by staking LP Tokens.",
+    "message": "イールドファーミングを使用するユーザはLPトークンをステークしてCMDSwapをサポートしながらCMDSをもらえます。",
     "description": "feature farms description"
   },
   "When you add your token to a Liquidity Pool you will receive Liquidity Provider (LP) tokens and share in the fees.": {
-    "message": "When you add your token to a Liquidity Pool you will receive Liquidity Provider (LP) tokens and share in the fees.",
+    "message": "流動性プールにトークンを追加すると、流動性供給者（LP）トークンを受け取り、一定量の手数料をもらいます。",
     "description": "feature liquidity pool description"
   },
   "theme.NotFound.title": {
@@ -68,7 +67,7 @@
     "description": "The blog post button label to navigate to the older/next post"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation",
+    "message": "ブログ最近記事のナビゲーション"",
     "description": "The ARIA label for recent posts in the blog sidebar"
   },
   "theme.blog.post.plurals": {
@@ -180,7 +179,7 @@
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "On this page",
+    "message": "このページで",
     "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.tags.tagsListLabel": {
